@@ -1,0 +1,11 @@
+# Local Netlify folder
+.netlify
+
+# Sanitized publish dir, rebuilt by build-publish-dir.sh before every deploy
+_site
+
+# Secrets
+.env
+.env.*
+
+node_modules
